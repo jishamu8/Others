@@ -1,0 +1,7 @@
+39	jigglypuff	5	55	95
+124	jynx	14	406	159
+135	jolteon	8	245	184
+189	jumpluff	8	30	207
+385	jirachi	3	11	270
+593	jellicent	22	1350	168
+595	joltik	1	6	64
